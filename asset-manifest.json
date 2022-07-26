@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://lazarofarias33.github.io/csb-nt4iyj/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://lazarofarias33.github.io/csb-nt4iyj/static/js/main.1dbd0eea.chunk.js",
+    "main.js.map": "https://lazarofarias33.github.io/csb-nt4iyj/static/js/main.1dbd0eea.chunk.js.map",
+    "runtime-main.js": "https://lazarofarias33.github.io/csb-nt4iyj/static/js/runtime-main.e0c326c3.js",
+    "runtime-main.js.map": "https://lazarofarias33.github.io/csb-nt4iyj/static/js/runtime-main.e0c326c3.js.map",
+    "static/js/2.0420a4a1.chunk.js": "https://lazarofarias33.github.io/csb-nt4iyj/static/js/2.0420a4a1.chunk.js",
+    "static/js/2.0420a4a1.chunk.js.map": "https://lazarofarias33.github.io/csb-nt4iyj/static/js/2.0420a4a1.chunk.js.map",
+    "index.html": "https://lazarofarias33.github.io/csb-nt4iyj/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://lazarofarias33.github.io/csb-nt4iyj/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.0420a4a1.chunk.js.LICENSE.txt": "https://lazarofarias33.github.io/csb-nt4iyj/static/js/2.0420a4a1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e0c326c3.js",
+    "static/js/2.0420a4a1.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.1dbd0eea.chunk.js"
+  ]
+}
